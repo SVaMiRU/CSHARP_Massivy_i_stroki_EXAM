@@ -1,0 +1,15 @@
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\bin\Debug\net8.0\Task004.exe
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\bin\Debug\net8.0\Task004.deps.json
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\bin\Debug\net8.0\Task004.runtimeconfig.json
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\bin\Debug\net8.0\Task004.dll
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\bin\Debug\net8.0\Task004.pdb
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.AssemblyInfoInputs.cache
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.AssemblyInfo.cs
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.csproj.CoreCompileInputs.cache
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.sourcelink.json
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.dll
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\refint\Task004.dll
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.pdb
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\Task004.genruntimeconfig.cache
+C:\Users\SVaMi\Downloads\GeekBrains\Znakomstvo_s_yazykami_programmirovaniya_seminary\Urok_6_Massivy_i_stroki\DZ\Task004\obj\Debug\net8.0\ref\Task004.dll
